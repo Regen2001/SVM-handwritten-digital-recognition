@@ -1,0 +1,35 @@
+2023-05-13 17:15:22,877 - SVM - INFO - Namespace(k=0, normalization='True', classify_strategy='ovr', kernel='rbf', C=1)
+2023-05-13 17:15:41,655 - SVM - INFO - Use normalization
+2023-05-13 17:15:42,041 - SVM - INFO - The kernel is rbf
+2023-05-13 17:15:42,041 - SVM - INFO - The classify strategy is ovr
+2023-05-13 17:15:42,041 - SVM - INFO - The value of C in SCM is 1.00
+2023-05-13 17:20:22,374 - SVM - INFO - The accuracy is 0.979
+2023-05-13 17:20:26,651 - SVM - INFO - Namespace(k=0, normalization='False', classify_strategy='ovr', kernel='rbf', C=1)
+2023-05-13 17:20:45,858 - SVM - INFO - The kernel is rbf
+2023-05-13 17:20:45,859 - SVM - INFO - The classify strategy is ovr
+2023-05-13 17:20:45,859 - SVM - INFO - The value of C in SCM is 1.00
+2023-05-13 17:25:12,313 - SVM - INFO - The accuracy is 0.979
+2023-05-13 17:25:16,722 - SVM - INFO - Namespace(k=0, normalization='True', classify_strategy='ovo', kernel='rbf', C=1)
+2023-05-13 17:25:35,219 - SVM - INFO - Use normalization
+2023-05-13 17:25:35,593 - SVM - INFO - The kernel is rbf
+2023-05-13 17:25:35,593 - SVM - INFO - The classify strategy is ovo
+2023-05-13 17:25:35,594 - SVM - INFO - The value of C in SCM is 1.00
+2023-05-13 17:30:22,192 - SVM - INFO - The accuracy is 0.979
+2023-05-13 17:30:28,726 - SVM - INFO - Namespace(k=0, normalization='True', classify_strategy='ovr', kernel='linear', C=1)
+2023-05-13 17:30:47,923 - SVM - INFO - Use normalization
+2023-05-13 17:30:48,299 - SVM - INFO - The kernel is linear
+2023-05-13 17:30:48,299 - SVM - INFO - The classify strategy is ovr
+2023-05-13 17:30:48,300 - SVM - INFO - The value of C in SCM is 1.00
+2023-05-13 18:19:57,919 - SVM - INFO - The accuracy is 0.925
+2023-05-13 18:20:05,976 - SVM - INFO - Namespace(k=0, normalization='True', classify_strategy='ovr', kernel='poly', C=1)
+2023-05-13 18:21:02,680 - SVM - INFO - Use normalization
+2023-05-13 18:21:03,832 - SVM - INFO - The kernel is poly
+2023-05-13 18:21:03,832 - SVM - INFO - The classify strategy is ovr
+2023-05-13 18:21:03,833 - SVM - INFO - The value of C in SCM is 1.00
+2023-05-13 18:36:39,624 - SVM - INFO - The accuracy is 0.981
+2023-05-13 18:36:46,513 - SVM - INFO - Namespace(k=0, normalization='True', classify_strategy='ovr', kernel='sigmoid', C=1)
+2023-05-13 18:37:08,433 - SVM - INFO - Use normalization
+2023-05-13 18:37:08,872 - SVM - INFO - The kernel is sigmoid
+2023-05-13 18:37:08,872 - SVM - INFO - The classify strategy is ovr
+2023-05-13 18:37:08,872 - SVM - INFO - The value of C in SCM is 1.00
+2023-05-13 18:43:29,050 - SVM - INFO - The accuracy is 0.805

@@ -1,0 +1,95 @@
+2023-05-14 21:39:14,857 - SVM - INFO - Namespace(k=392, normalization='True', classify_strategy='ovr', kernel='rbf', C=1)
+2023-05-14 21:39:27,228 - SVM - INFO - Use normalization
+2023-05-14 21:39:27,436 - SVM - INFO - The value of k in PCA is 392
+2023-05-14 21:39:30,531 - SVM - INFO - The kernel is rbf
+2023-05-14 21:39:30,531 - SVM - INFO - The classify strategy is ovr
+2023-05-14 21:39:30,531 - SVM - INFO - The value of C in SCM is 1.00
+2023-05-14 21:50:05,344 - SVM - INFO - The accuracy is 0.158
+2023-05-14 22:10:50,870 - SVM - INFO - Namespace(k=704, normalization='True', classify_strategy='ovr', kernel='rbf', C=1)
+2023-05-14 22:11:03,126 - SVM - INFO - Use normalization
+2023-05-14 22:11:03,357 - SVM - INFO - The value of k in PCA is 704
+2023-05-14 22:11:05,712 - SVM - INFO - The kernel is rbf
+2023-05-14 22:11:05,712 - SVM - INFO - The classify strategy is ovr
+2023-05-14 22:11:05,712 - SVM - INFO - The value of C in SCM is 1.00
+2023-05-14 22:26:59,818 - SVM - INFO - The accuracy is 0.198
+2023-05-14 22:27:09,196 - SVM - INFO - Namespace(k=0, normalization='True', classify_strategy='ovr', kernel='rbf', C=1)
+2023-05-14 22:27:21,938 - SVM - INFO - Use normalization
+2023-05-14 22:27:22,159 - SVM - INFO - The kernel is rbf
+2023-05-14 22:27:22,160 - SVM - INFO - The classify strategy is ovr
+2023-05-14 22:27:22,160 - SVM - INFO - The value of C in SCM is 1.00
+2023-05-14 22:31:43,715 - SVM - INFO - The accuracy is 0.979
+2023-05-20 20:55:24,755 - SVM - INFO - Namespace(k=780, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 20:55:24,781 - SVM - INFO - Use normalization
+2023-05-20 20:55:24,863 - SVM - INFO - The value of k in PCA is 780
+2023-05-20 20:55:26,503 - SVM - INFO - The kernel is rbf
+2023-05-20 20:55:26,503 - SVM - INFO - The classify strategy is ovr
+2023-05-20 20:55:26,503 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 20:55:36,314 - SVM - INFO - The accuracy is 0.951
+2023-05-20 21:00:49,152 - SVM - INFO - Namespace(k=700, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:00:49,176 - SVM - INFO - Use normalization
+2023-05-20 21:00:49,647 - SVM - INFO - The value of k in PCA is 700
+2023-05-20 21:00:58,519 - SVM - INFO - The kernel is rbf
+2023-05-20 21:00:58,519 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:00:58,519 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:02:59,659 - SVM - INFO - Namespace(k=700, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:02:59,688 - SVM - INFO - Use normalization
+2023-05-20 21:02:59,767 - SVM - INFO - The value of k in PCA is 700
+2023-05-20 21:03:01,201 - SVM - INFO - The kernel is rbf
+2023-05-20 21:03:01,201 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:03:01,202 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:03:10,495 - SVM - INFO - The accuracy is 0.951
+2023-05-20 21:03:27,125 - SVM - INFO - Namespace(k=392, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:03:27,156 - SVM - INFO - Use normalization
+2023-05-20 21:03:27,235 - SVM - INFO - The value of k in PCA is 392
+2023-05-20 21:03:28,056 - SVM - INFO - The kernel is rbf
+2023-05-20 21:03:28,057 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:03:28,057 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:03:32,756 - SVM - INFO - The accuracy is 0.951
+2023-05-20 21:03:44,971 - SVM - INFO - Namespace(k=100, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:03:44,995 - SVM - INFO - Use normalization
+2023-05-20 21:03:45,088 - SVM - INFO - The value of k in PCA is 100
+2023-05-20 21:03:45,294 - SVM - INFO - The kernel is rbf
+2023-05-20 21:03:45,294 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:03:45,295 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:03:47,494 - SVM - INFO - The accuracy is 0.953
+2023-05-20 21:04:12,152 - SVM - INFO - Namespace(k=50, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:04:12,176 - SVM - INFO - Use normalization
+2023-05-20 21:04:12,256 - SVM - INFO - The value of k in PCA is 50
+2023-05-20 21:04:12,412 - SVM - INFO - The kernel is rbf
+2023-05-20 21:04:12,412 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:04:12,412 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:04:14,046 - SVM - INFO - The accuracy is 0.953
+2023-05-20 21:04:21,975 - SVM - INFO - Namespace(k=10, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:04:21,999 - SVM - INFO - Use normalization
+2023-05-20 21:04:22,079 - SVM - INFO - The value of k in PCA is 10
+2023-05-20 21:04:22,243 - SVM - INFO - The kernel is rbf
+2023-05-20 21:04:22,243 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:04:22,244 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:04:23,396 - SVM - INFO - The accuracy is 0.881
+2023-05-20 21:04:36,122 - SVM - INFO - Namespace(k=5, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:04:36,146 - SVM - INFO - Use normalization
+2023-05-20 21:04:36,228 - SVM - INFO - The value of k in PCA is 5
+2023-05-20 21:04:36,359 - SVM - INFO - The kernel is rbf
+2023-05-20 21:04:36,359 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:04:36,359 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:04:38,085 - SVM - INFO - The accuracy is 0.718
+2023-05-20 21:05:20,321 - SVM - INFO - Namespace(k=1, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:05:20,346 - SVM - INFO - Use normalization
+2023-05-20 21:05:20,432 - SVM - INFO - The value of k in PCA is 1
+2023-05-20 21:05:20,688 - SVM - INFO - The kernel is rbf
+2023-05-20 21:05:20,688 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:05:20,688 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:05:24,018 - SVM - INFO - The accuracy is 0.301
+2023-05-20 21:09:31,042 - SVM - INFO - Namespace(k=470, normalization='True', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:09:31,067 - SVM - INFO - Use normalization
+2023-05-20 21:09:31,153 - SVM - INFO - The value of k in PCA is 470
+2023-05-20 21:09:32,046 - SVM - INFO - The kernel is rbf
+2023-05-20 21:09:32,048 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:09:32,049 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:09:37,597 - SVM - INFO - The accuracy is 0.951
+2023-05-20 21:09:44,722 - SVM - INFO - Namespace(k=470, normalization='False', classify_strategy='ovr', kernel='rbf', C=2.0)
+2023-05-20 21:09:44,746 - SVM - INFO - The value of k in PCA is 470
+2023-05-20 21:09:45,643 - SVM - INFO - The kernel is rbf
+2023-05-20 21:09:45,644 - SVM - INFO - The classify strategy is ovr
+2023-05-20 21:09:45,645 - SVM - INFO - The value of C in SCM is 2.00
+2023-05-20 21:09:51,067 - SVM - INFO - The accuracy is 0.953
